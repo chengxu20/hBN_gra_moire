@@ -1,1 +1,1 @@
-The code and data for the paper:"Moiré band structure engineering using a twisted boron nitride substrate"
+The code accompanying the paper, “Moiré Band Structure Engineering Using a Twisted Boron Nitride Substrate”, allows for the generation of all continuum model-related data.
